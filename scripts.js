@@ -19,4 +19,4 @@ function getJoke() {
 }
 
 
-
+getJoke();
